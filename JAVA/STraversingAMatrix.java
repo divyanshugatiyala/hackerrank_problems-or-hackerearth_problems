@@ -1,6 +1,6 @@
-import java.util.ArrayList;
+import java.util.*;
 
-public class SpirallyTraversingMatrix {
+public class STraversingAMatrix {
 
 	public static void main(String[] args) {
 		int matrix[][] = {{9, 2, 0, 4},
