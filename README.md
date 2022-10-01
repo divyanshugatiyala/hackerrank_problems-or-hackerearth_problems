@@ -2,6 +2,12 @@
 
 Solutions to HackerRank/HackerEarth problems: Currently contains solutions implemented in C, C++, Python, Ruby, Java.
 
+## Open on Gitpod
+
+ Click the button below to launch this workspace on Gitpod
+ 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/PrakashGatiyala/hackerrank_problems-or-hackerearth_problems)
+
 Please read CONTRIBUTING.md for contribution guidelines.
 
 #### Mention your issue link in PR while creating PR. It will be used to track progress of issue. 
